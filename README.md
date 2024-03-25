@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Game development using js**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React js**,**Nodejs**
 
 - 💬 Ask me about **React js**
 

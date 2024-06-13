@@ -38,9 +38,9 @@
 
 ### Best frameworks and frontend:
 
-| Bootstrap | React | SASS | Express |
-|----------|----------|----------|----------|
-|  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="55" height="55"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">|  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="55" height="55"/>|  <img src="https://vectorified.com/images/express-js-icon-20.png" alt="express" width="55" height="55"/> |
+| Bootstrap | React | SASS | Express | Tailwind |
+|----------|----------|----------|----------|----------|
+|  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="55" height="55"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">|  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="55" height="55"/>|  <img src="https://vectorified.com/images/express-js-icon-20.png" alt="express" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg" alt="tailwind css" width="55" height="55"/> |
 
 
 

@@ -6,13 +6,11 @@
 
 
 
-- 🔭 I’m currently working on **Nodejs Project**
-
-- 🌱 I’m currently learning **Reactjs,Nodejs**
-
-- 💬 Ask me about **Reactjs,Nodejs**
-
-- 📫 How to reach me **viahalyadav0987@gmail.com**
+**Hi there! 👋**
+- 🔭 I’m currently working on an exciting **Node.js** project, where I’m tackling real-world challenges and building scalable solutions.
+- 🌱 I’m continuously expanding my skill set, focusing on **React.js** and **Node.js** to stay at the forefront of web development.
+- 💬 I’m passionate about these technologies and always open to discussing and sharing knowledge about **React.js** and **Node.js.** If you have any questions or need advice, feel free to ask!
+- 📫 You can easily reach me via email at **viahalyadav0987@gmail.com**. I’m always open to networking and collaboration opportunities.
 
 ---
 

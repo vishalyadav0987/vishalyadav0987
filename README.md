@@ -8,9 +8,9 @@
   <a href="https://github.com/vishalyadav0987/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/issues/vishalyadav0987/github-profile-trophy" alt="Issues"/>
   </a>
-  <a href="https://github.com/vishalyadav0987/github-profile-trophy/network/members">
+<!--   <a href="https://github.com/vishalyadav0987/github-profile-trophy/network/members">
     <img src="https://img.shields.io/github/forks/vishalyadav0987/github-profile-trophy" alt="Forks"/>
-  </a>
+  </a> -->
   <a href="https://github.com/vishalyadav0987/github-profile-trophy/stargazers">
     <img src="https://img.shields.io/github/stars/vishalyadav0987/github-profile-trophy" alt="Stargazers"/>
   </a>

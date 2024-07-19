@@ -1,6 +1,27 @@
 <h1 align="center">Hi 👋, I'm Vishal Yadav</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
+<div align="center">
+  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
+</div>
+<div align="center" style="margin:20px">
+  <a href="https://github.com/vishalyadav0987/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/vishalyadav0987/github-profile-trophy" alt="Issues"/>
+  </a>
+  <a href="https://github.com/vishalyadav0987/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/vishalyadav0987/github-profile-trophy" alt="Forks"/>
+  </a>
+  <a href="https://github.com/vishalyadav0987/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/vishalyadav0987/github-profile-trophy" alt="Stargazers"/>
+  </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/vishalyadav0987/github-profile-trophy" alt="License"/>
+  </a>
+</div>
+<p align="center">
+  You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalyadav0987" alt="vishalyadav0987" /></a> </p>
 

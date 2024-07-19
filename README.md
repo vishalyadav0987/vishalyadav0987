@@ -14,7 +14,7 @@
   <a href="https://github.com/vishalyadav0987/github-profile-trophy/stargazers">
     <img src="https://img.shields.io/github/stars/vishalyadav0987/github-profile-trophy" alt="Stargazers"/>
   </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
+    <a href="https://github.com/vishalyadav0987/github-profile-trophy/LICENSE">
     <img src="https://img.shields.io/github/license/vishalyadav0987/github-profile-trophy" alt="License"/>
   </a>
 </div>

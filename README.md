@@ -23,7 +23,15 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalyadav0987" alt="vishalyadav0987" /></a> </p>
+<!-- <p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalyadav0987" alt="vishalyadav0987" /></a>
+</p> -->
+ <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalyadav0987&theme=juicyfresh" alt="vishalyadav0987" /></a>
+</p> 
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=vishalyadav0987&theme=onedark)](https://github.com/vishalyadav0987/github-profile-trophy) -->
+
 
 
 
@@ -92,9 +100,22 @@
 
 
 ## Stats
-
+<!--
 <p style="margin-top: 50px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalyadav0987&show_icons=true&locale=en&layout=compact" alt="vishalyadav0987" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalyadav0987&show_icons=true&locale=en" alt="vishalyadav0987" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalyadav0987&" alt="vishalyadav0987" /></p>
+
+-->
+
+<p style="margin-top: 50px;"><img align="left" src="https://github-readme-stats.vercel.app/api?username=vishalyadav0987&theme=outrun&show_icons=true&hide_border=false&count_private=true" alt="vishalyadav0987" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalyadav0987&theme=outrun&hide_border=false" alt="vishalyadav0987" /></p>
+
+<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalyadav0987&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="vishalyadav0987" /></p>
+
+
+
+
+

@@ -45,11 +45,10 @@
 
 
 ## Connect with me
-| LinkdIn | GFG | Hacker | Instagram | G-Mail |
-|---------|---------|-------------|-------------|----------|
-|<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishal-yadav-831049254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-yadav-831049254" height="50" width="55" /></a> |<a href="https://www.geeksforgeeks.org/user/vishalyadav0987" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="https://www.geeksforgeeks.org/user/vishalyadav0987" height="55" width="55" /></a> |<a href="https://www.hackerrank.com/profile/mr_yadavvishal01" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="https://www.hackerrank.com/profile/mr_yadavvishal01" height="65" width="65" /></a> |<a href="https://www.instagram.com/frustrate_coder?igsh=MTk1NGUxM3ZwbjhjdA==" target="blank"><img align="center" src="http://pngimg.com/uploads/instagram/instagram_PNG9.png" alt="https://www.instagram.com/frustrate_coder?igsh=MTk1NGUxM3ZwbjhjdA==" height="55" width="55" /></a> |<a href="viahalyadav0987@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png" alt="viahalyadav0987@gmail.com" height="55" width="55" /></a> |
+| LinkdIn | G-Mail |
+|---------|----------|
+|<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishal-yadav-831049254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-yadav-831049254" height="50" width="55" /></a> |<a href="viahalyadav0987@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png" alt="viahalyadav0987@gmail.com" height="55" width="55" /></a> |
 
----
 
  ## Languages and Tools
 
@@ -85,7 +84,7 @@
 |----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|  <img src="https://raw.githubusercontent.com/thunderclient/thunder-client-support/master/images/thunder-icon.png" title="Thunder" alt="Thunder client" width="55" height="55"/>|
 
----
+
 
 
 

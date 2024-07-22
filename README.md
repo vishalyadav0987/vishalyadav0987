@@ -4,20 +4,20 @@
 <div align="center">
   <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
 </div>
-<div align="center" style="margin:20px">
+<!-- <div align="center" style="margin:20px">
   <a href="https://github.com/vishalyadav0987/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/issues/vishalyadav0987/github-profile-trophy" alt="Issues"/>
   </a>
-<!--   <a href="https://github.com/vishalyadav0987/github-profile-trophy/network/members">
+  <a href="https://github.com/vishalyadav0987/github-profile-trophy/network/members">
     <img src="https://img.shields.io/github/forks/vishalyadav0987/github-profile-trophy" alt="Forks"/>
-  </a> -->
+  </a> 
   <a href="https://github.com/vishalyadav0987/github-profile-trophy/stargazers">
     <img src="https://img.shields.io/github/stars/vishalyadav0987/github-profile-trophy" alt="Stargazers"/>
   </a>
     <a href="https://github.com/vishalyadav0987/github-profile-trophy/LICENSE">
     <img src="https://img.shields.io/github/license/vishalyadav0987/github-profile-trophy" alt="License"/>
   </a>
-</div>
+</div> -->
 <p align="center">
   You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
 </p>
@@ -111,9 +111,9 @@
 
 <p style="margin-top: 50px;"><img align="left" src="https://github-readme-stats.vercel.app/api?username=vishalyadav0987&theme=outrun&show_icons=true&hide_border=false&count_private=true" alt="vishalyadav0987" /></p>
 
+<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalyadav0987&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="vishalyadav0987" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalyadav0987&theme=outrun&hide_border=false" alt="vishalyadav0987" /></p>
 
-<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalyadav0987&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="vishalyadav0987" /></p>
 
 
 

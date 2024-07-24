@@ -44,11 +44,17 @@
 ---
 
 
-## Connect with me
+### Connect with me
 | LinkdIn | G-Mail |
 |---------|----------|
 |<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishal-yadav-831049254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-yadav-831049254" height="50" width="55" /></a> |<a href="viahalyadav0987@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png" alt="viahalyadav0987@gmail.com" height="55" width="55" /></a> |
 
+**Let's Connect!**
+I'm always excited to connect with fellow professionals and enthusiasts. Feel free to reach out through the following platforms:
+- **LinkedIn**: Let's network and explore opportunities together!
+- **Gmail**: Drop me an email for any queries or collaborations.
+
+---
 
  ## Languages and Tools
 
@@ -88,7 +94,7 @@
 
 
 
- ## MERN STACK DEVELOPER
+ ### MERN STACK DEVELOPER
  | Mongodb | ExpressJs | ReactJs | NodeJS |
  |----------|----------|----------|----------|
  |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55" /> |<img src="https://vectorified.com/images/express-js-icon-20.png" alt="express" width="55" height="55" />| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55" />|

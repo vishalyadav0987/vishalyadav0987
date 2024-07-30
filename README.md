@@ -22,6 +22,10 @@
   You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
 </p>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=vishalyadav0987&style=for-the-badge" alt="veiw"/>
+</p>
+
 
 <!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalyadav0987" alt="vishalyadav0987" /></a>

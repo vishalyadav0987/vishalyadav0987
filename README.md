@@ -31,7 +31,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalyadav0987" alt="vishalyadav0987" /></a>
 </p> -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalyadav0987&theme=juicyfresh&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" alt="vishalyadav0987" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalyadav0987&theme=juicyfresh&column=5&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="vishalyadav0987" /></a>
 </p> 
 
 

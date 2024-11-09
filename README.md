@@ -23,8 +23,10 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=vishalyadav0987&style=for-the-badge" alt="veiw"/>
+    <img src="https://img.shields.io/badge/INT__MIN-Profile%20View-blue?style=for-the-badge&labelColor=blue&color=gray" alt="Profile Views" />
 </p>
+
+
 
 
 <!-- <p align="left">

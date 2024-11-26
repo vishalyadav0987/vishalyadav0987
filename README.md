@@ -9,6 +9,7 @@
   This service is free and open-source! If you'd like to support it, sponsorships are welcome.
 </p>
 
+
 <p align="center">
     <img src="https://img.shields.io/badge/INT__MIN-Profile%20View-blue?style=for-the-badge&labelColor=blue&color=gray" alt="Profile Views" />
 </p>
@@ -21,7 +22,7 @@
 
 **Hi there! 👋**
 - 🔭 I’m currently working on an exciting **Node.js** project, solving real-world problems with scalable solutions.
-- 🌱 Expanding my skills with a focus on **React.js** and **Node.js** for cutting-edge web development.
+- 🎯 Expanding my skills with a focus on **React.js** and **Node.js** for cutting-edge web development.
 - 💬 I’m always happy to discuss and share insights on **React.js**, **Node.js**, and more.
 - 📫 Reach me via email at **viahalyadav0987@gmail.com**. Let’s collaborate!
 

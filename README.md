@@ -21,7 +21,7 @@
 ---
 
 **Hi there! 👋**
-- 🔭 I’m currently working on an exciting **Node.js** project, solving real-world problems with scalable solutions.
+- 🚌 I’m currently working on an exciting **Node.js** project, solving real-world problems with scalable solutions.
 - 🎯 Expanding my skills with a focus on **React.js** and **Node.js** for cutting-edge web development.
 - 💬 I’m always happy to discuss and share insights on **React.js**, **Node.js**, and more.
 - 📫 Reach me via email at **viahalyadav0987@gmail.com**. Let’s collaborate!

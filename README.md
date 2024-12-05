@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  This service is free and open-source! If you'd like to support it, sponsorships are welcome.
+  This service  free and open-source! If you'd like to support it, sponsorships are welcome.
 </p>
 
 

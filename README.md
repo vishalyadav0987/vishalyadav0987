@@ -6,16 +6,17 @@
 </div>
 
 <p align="center">
-  This service  free and open-source! If you'd like to support it, sponsorships are welcome.
+  This service is free and open-source! If you'd like to support it, sponsorships are welcome.
 </p>
-
 
 <p align="center">
     <img src="https://img.shields.io/badge/INT__MIN-Profile%20View-blue?style=for-the-badge&labelColor=blue&color=gray" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalyadav0987&theme=juicyfresh&column=6&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="GitHub Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vishalyadav0987&theme=juicyfresh&column=6&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
@@ -71,6 +72,8 @@ I’m excited to connect with professionals and enthusiasts. Feel free to reach 
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="55" height="55"/>|<img src="https://vectorified.com/images/express-js-icon-20.png" alt="Express.js" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="55" height="55"/>|
 
 ---
+
+### GitHub Stats
 
 <p align="center">
   <img width="800" height="220" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalyadav0987&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak Stats" />

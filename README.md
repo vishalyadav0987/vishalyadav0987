@@ -26,6 +26,7 @@
 - 🎯 Expanding my skills with a focus on **React.js** and **Node.js** for cutting-edge web development.
 - 💬 I’m always happy to discuss and share insights on **React.js**, **Node.js**, and more.
 - 📫 Reach me via email at **viahalyadav0987@gmail.com**. Let’s collaborate!
+- 🚩 **Note:** Currently troubleshooting an issue where my commit count is not updating as expected. Contributions might be accurate but delayed in stats.
 
 ---
 
@@ -41,8 +42,6 @@ I’m excited to connect with professionals and enthusiasts. Feel free to reach 
 ---
 
 ## Languages and Tools
-
-<div>
 
 ### Languages:
 | Python3 | C | JS | C++ | Java | HTML5 | CSS |

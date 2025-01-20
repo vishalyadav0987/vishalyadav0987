@@ -122,7 +122,12 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalyadav0987&show_icons=true&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Stats" />
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false&Text=FFFFFF&Ring=C2CB15&Title=C2CB15&Background=000000&Border=000000">
+  <img alt="vishalyadav0987's GitHub Stats" 
+       src="https://awesome-github-stats.azurewebsites.net/user-stats/vishalyadav0987?cardType=level&theme=github-dark&preferLogin=false&Text=FFFFFF&Ring=C2CB15&Title=C2CB15&Background=000000&Border=000000" 
+       style="width:600px; height:400px" />
+</a>
+
 </p>
 
 <p align="center">

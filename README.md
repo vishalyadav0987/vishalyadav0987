@@ -137,10 +137,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalyadav0987&theme=highcontrast&hide_border=true&border_radius=5&card_width=600" alt="Top Languages" />
 </p>
 -->
+![vishalyadav0987's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalyadav0987&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 ![vishalyadav0987's Stats](https://github-readme-stats.vercel.app/api?username=vishalyadav0987&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
 ![vishalyadav0987's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishalyadav0987&theme=merko&hide_border=true)
 
-![vishalyadav0987's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalyadav0987&theme=merko&show_icons=true&hide_border=true&layout=compact)
 

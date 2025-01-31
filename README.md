@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 
 <div align="center">
-  <p>🏆 Dynamically Generated GitHub Stat Trophies Using API</p>
+  <p>🏆 Dynamically Generated GitHub Stat Trophies Using API.</p>
 </div>
 
 <p align="center">

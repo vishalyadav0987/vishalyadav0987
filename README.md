@@ -75,6 +75,7 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="55" height="55"/></td>
     <td align="center"><img src="https://vectorified.com/images/express-js-icon-20.png" alt="Express.js" width="55" height="55"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg" alt="Tailwind CSS" width="55" height="55"/></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/14101776?s=280&v=4" alt="Tailwind CSS" width="55" height="55"/></td>
   </tr>
 </table>
 

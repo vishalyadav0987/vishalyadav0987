@@ -5,36 +5,47 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
-    name: Generate Snake Animation
     runs-on: ubuntu-latest
 
     steps:
       - name: 📥 Checkout Repository
         uses: actions/checkout@v3
 
+      # 🔥 STEP 1: Generate "food" (commits)
+      - name: 🍔 Generate Contribution Food
+        run: |
+          git config --global user.name "vishalyadav0987"
+          git config --global user.email "you@example.com"
+
+          for i in {1..10}
+          do
+            git commit --allow-empty -m "🍔 food commit $i"
+          done
+
+          git push
+
+      # 🐍 STEP 2: Generate Snake
       - name: 🐍 Generate Snake Animations
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake-blue.svg?palette=github
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/ocean.gif?color_snake=orange
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # 🚀 STEP 3: Deploy
       - name: 🚀 Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "✨ update snake animation"

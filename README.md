@@ -20,7 +20,7 @@
 
 <div align="center">
   
-### 🔥 **CURRENTLY WORKING AT:** [`Findoc`](https://www.findoc.com/) - Building Fintech + AI solutions 🚀
+### 🔥 **CURRENTLY WORKING AT:** [`Findoc`](https://www.findoc.com/) - Building Fintech Apps + AI solutions 🚀
 ### 🎓 **Computer Science Engineer**
 ### 💡 **FOCUSED ON:** ` Scalable Systems, Clean Architecture & High-Quality Code ⚡ `
 

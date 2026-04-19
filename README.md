@@ -146,8 +146,8 @@
   
 ```ascii
 ╭─────────────────────────────────────────────────────────────╮
-│  ⚡ "BUILDING THE FUTURE WITH AI-POWERED SOLUTIONS"        │  
-│        ~ Vishal Yadav • Software Developer @ Findoc ~         │
+│  ⚡ "BUILDING THE FUTURE WITH AI-POWERED SOLUTIONS"          │  
+│        ~ Vishal Yadav • Software Developer @ Findoc ~       │
 ╰─────────────────────────────────────────────────────────────╯
 ```
 
@@ -156,3 +156,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,18&height=150&section=footer&text=KEEP%20CODING!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 </div>
+
+<div align="center">
+
+  <!-- Terminal Style Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=&fontSize=40"/>
+
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=700&lines=$+npm+start;$+Building+Awesome+Projects...;$+Full+Stack+Developer;$+Always+Learning+🚀" />
+
+</div>
+
